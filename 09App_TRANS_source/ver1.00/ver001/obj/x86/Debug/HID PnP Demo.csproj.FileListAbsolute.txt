@@ -1,0 +1,66 @@
+C:\Users\Shinozaki\work\Revive\revive usb\PCソフト\ver112\bin\x86\Debug\Revive_USB_CT.exe.config
+C:\Users\Shinozaki\work\Revive\revive usb\PCソフト\ver112\bin\x86\Debug\Revive_USB_CT.exe
+C:\Users\Shinozaki\work\Revive\revive usb\PCソフト\ver112\bin\x86\Debug\Revive_USB_CT.pdb
+C:\Users\Shinozaki\work\Revive\revive usb\PCソフト\ver112\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shinozaki\work\Revive\revive usb\PCソフト\ver112\obj\x86\Debug\HID_PnP_Demo.Form1.resources
+C:\Users\Shinozaki\work\Revive\revive usb\PCソフト\ver112\obj\x86\Debug\Revive_USB_CT.Properties.Resources.resources
+C:\Users\Shinozaki\work\Revive\revive usb\PCソフト\ver112\obj\x86\Debug\HID PnP Demo.csproj.GenerateResource.Cache
+C:\Users\Shinozaki\work\Revive\revive usb\PCソフト\ver112\obj\x86\Debug\Revive_USB_CT.exe
+C:\Users\Shinozaki\work\Revive\revive usb\PCソフト\ver112\obj\x86\Debug\Revive_USB_CT.pdb
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\ver001\bin\x86\Debug\Revive_USB_CT.exe.config
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\ver001\obj\x86\Debug\Revive_USB_CT.exe
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\ver001\obj\x86\Debug\Revive_USB_CT.pdb
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\ver001\bin\x86\Debug\Revive_USB_CT.exe
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\ver001\bin\x86\Debug\Revive_USB_CT.pdb
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\ver001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\ver001\obj\x86\Debug\HID_PnP_Demo.Form1.resources
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\ver001\obj\x86\Debug\Revive_USB_CT.Properties.Resources.resources
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\ver001\obj\x86\Debug\HID PnP Demo.csproj.GenerateResource.Cache
+C:\BitTradeOne\RemoconServant\PCソフト\ver001\bin\x86\Debug\Revive_USB_CT.exe.config
+C:\BitTradeOne\RemoconServant\PCソフト\ver001\obj\x86\Debug\Revive_USB_CT.exe
+C:\BitTradeOne\RemoconServant\PCソフト\ver001\obj\x86\Debug\Revive_USB_CT.pdb
+C:\BitTradeOne\RemoconServant\PCソフト\ver001\bin\x86\Debug\Revive_USB_CT.exe
+C:\BitTradeOne\RemoconServant\PCソフト\ver001\bin\x86\Debug\Revive_USB_CT.pdb
+C:\BitTradeOne\RemoconServant\PCソフト\ver001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BitTradeOne\RemoconServant\PCソフト\ver001\obj\x86\Debug\HID_PnP_Demo.Form1.resources
+C:\BitTradeOne\RemoconServant\PCソフト\ver001\obj\x86\Debug\Revive_USB_CT.Properties.Resources.resources
+C:\BitTradeOne\RemoconServant\PCソフト\ver001\obj\x86\Debug\HID PnP Demo.csproj.GenerateResource.Cache
+C:\BitTradeOne\RemoconServant\PCソフト\Receive\ver001\bin\x86\Debug\Revive_USB_CT.exe.config
+C:\BitTradeOne\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\Revive_USB_CT.exe
+C:\BitTradeOne\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\Revive_USB_CT.pdb
+C:\BitTradeOne\RemoconServant\PCソフト\Receive\ver001\bin\x86\Debug\Revive_USB_CT.exe
+C:\BitTradeOne\RemoconServant\PCソフト\Receive\ver001\bin\x86\Debug\Revive_USB_CT.pdb
+C:\BitTradeOne\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BitTradeOne\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\HID_PnP_Demo.Form1.resources
+C:\BitTradeOne\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\Revive_USB_CT.Properties.Resources.resources
+C:\BitTradeOne\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\HID PnP Demo.csproj.GenerateResource.Cache
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\bin\x86\Debug\Revive_USB_CT.exe.config
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\Revive_USB_CT.exe
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\Revive_USB_CT.pdb
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\bin\x86\Debug\Revive_USB_CT.exe
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\bin\x86\Debug\Revive_USB_CT.pdb
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\HID_PnP_Demo.Form1.resources
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\Revive_USB_CT.Properties.Resources.resources
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\obj\x86\Debug\HID PnP Demo.csproj.GenerateResource.Cache
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Receive\ver001\bin\x86\Debug\app.config
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\bin\x86\Debug\Revive_USB_CT.exe.config
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\Revive_USB_CT.exe
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\Revive_USB_CT.pdb
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\bin\x86\Debug\app.config
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\bin\x86\Debug\Revive_USB_CT.exe
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\bin\x86\Debug\Revive_USB_CT.pdb
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\HID_PnP_Demo.Form1.resources
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\Revive_USB_CT.Properties.Resources.resources
+C:\Users\Shinozaki\work\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\HID PnP Demo.csproj.GenerateResource.Cache
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\bin\x86\Debug\app.config
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\HID_PnP_Demo.Form1.resources
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\HID PnP Demo.csproj.GenerateResource.Cache
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\USB_IR_REMOCON_CT.Properties.Resources.resources
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\bin\x86\Debug\REMOCON_CT_TRANS.exe.config
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\bin\x86\Debug\REMOCON_CT_TRANS.exe
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\bin\x86\Debug\REMOCON_CT_TRANS.pdb
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\REMOCON_CT_TRANS.exe
+C:\BitTradeOne\RemoconServant\PCソフト\Send\ver001\obj\x86\Debug\REMOCON_CT_TRANS.pdb

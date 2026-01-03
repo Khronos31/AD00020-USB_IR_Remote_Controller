@@ -1,0 +1,126 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Revive_USB_CT.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MEMO01" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO02" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO03" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO04" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO05" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO06" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO07" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO08" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO09" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO18" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO19" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO20" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="CODE01" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE02" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE03" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE04" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE05" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE06" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE07" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE08" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE09" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE10" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE11" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE12" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE13" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE14" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE15" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE16" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE17" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE18" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE19" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CODE20" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
