@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Revive_USB_CT.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MEMO01" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO02" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO03" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO04" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO05" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO06" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO07" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO08" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO09" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO15" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO16" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO17" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO18" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO19" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+    <Setting Name="MEMO20" Type="System.String" Scope="User">
+      <Value Profile="(Default)">メモ</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

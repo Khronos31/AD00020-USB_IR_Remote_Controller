@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HID PnP Demo">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\HID PnP Demo.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\HID PnP Demo.suo">
+</Property><Property Name="Date" Value="2010年8月10日">
+</Property><Property Name="Time" Value="11:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HID PnP Demo.sln" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\HID PnP Demo.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="HID PnP Demo.suo" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\HID PnP Demo.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="HID PnP Demo.csproj" Description="プロジェクト ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\HID PnP Demo.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="HID PnP Demo.csproj.user" Description="プロジェクト ユーザー ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\HID PnP Demo.csproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Form1.cs" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Form1.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Form1.Designer.cs" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Form1.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Program.cs" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Program.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Properties\AssemblyInfo.cs" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Properties\Resources.Designer.cs" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Properties\Resources.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Properties\Settings.Designer.cs" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Properties\Settings.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="app.config" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\app.config としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Properties\Settings.settings" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Properties\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Form1.resx" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Form1.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Properties\Resources.resx" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Properties\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="Properties\app.manifest" Description="ファイルは正常に C:\Users\gyousei\Documents\Visual Studio 2008\Projects\USB\HIDtest\ver1\Backup\Properties\app.manifest としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="HID PnP Demo.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="HID PnP Demo" Source="HID PnP Demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HID PnP Demo.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="HID PnP Demo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HID PnP Demo" Source="HID PnP Demo.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>
