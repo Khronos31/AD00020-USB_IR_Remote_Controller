@@ -1,0 +1,27 @@
+﻿2023/12/14 17:30:34 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\USB_IR_Sample\USB_IR_Sample.vcxproj" (rebuild ターゲット)。
+     1>_PrepareForClean:
+         ファイル "Debug\USB_IR_Sample.lastbuildstate" を削除しています。
+       InitializeBuildStatus:
+         "Debug\USB_IR_Sample.unsuccessfulbuild" のタッチ タスクを実行しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\USB_IR_Library /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\USB_IR_Sample.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\USB_IR_Library /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\USB_IR_Sample.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt USB_IR_Sample.cpp
+         USB_IR_Sample.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\Debug\USB_IR_Sample.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\USB_IR_Sample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\Debug\USB_IR_Sample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\Debug\USB_IR_Sample.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\USB_IR_Sample.obj
+         "D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\Debug\USB_IR_Library.lib"
+     1>stdafx.obj : warning LNK4075: /EDITANDCONTINUE は /INCREMENTAL:NO の指定によって無視されます。
+         USB_IR_Sample.vcxproj -> D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\Debug\USB_IR_Sample.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\Debug\USB_IR_Sample.exe;#1" /manifest Debug\USB_IR_Sample.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ファイル "Debug\USB_IR_Sample.unsuccessfulbuild" を削除しています。
+         "Debug\USB_IR_Sample.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\USB_IR_Sample\USB_IR_Sample.vcxproj" (rebuild ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.29

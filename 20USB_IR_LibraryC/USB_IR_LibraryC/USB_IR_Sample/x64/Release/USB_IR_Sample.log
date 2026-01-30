@@ -1,0 +1,28 @@
+﻿2023/12/14 17:32:03 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\USB_IR_Sample\USB_IR_Sample.vcxproj" (rebuild ターゲット)。
+     1>_PrepareForClean:
+         ファイル "x64\Release\USB_IR_Sample.lastbuildstate" を削除しています。
+       InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "x64\Release\USB_IR_Sample.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\USB_IR_Library /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"x64\Release\USB_IR_Sample.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I..\USB_IR_Library /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Release\USB_IR_Sample.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt USB_IR_Sample.cpp
+         USB_IR_Sample.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\x64\Release\USB_IR_Sample.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Release\USB_IR_Sample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\x64\Release\USB_IR_Sample.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\x64\Release\USB_IR_Sample.lib" /MACHINE:X64 x64\Release\stdafx.obj
+         x64\Release\USB_IR_Sample.obj
+         "D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\Release\USB_IR_Library.lib"
+         コード生成しています。
+         コード生成が終了しました。
+         USB_IR_Sample.vcxproj -> D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\x64\Release\USB_IR_Sample.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\x64\Release\USB_IR_Sample.exe;#1" /manifest x64\Release\USB_IR_Sample.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ファイル "x64\Release\USB_IR_Sample.unsuccessfulbuild" を削除しています。
+         "x64\Release\USB_IR_Sample.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "D:\work\RemoconServant\RemoconServant_20130329_製品v210\LibraryC\USB_IR_Library\USB_IR_Sample\USB_IR_Sample.vcxproj" (rebuild ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.04
