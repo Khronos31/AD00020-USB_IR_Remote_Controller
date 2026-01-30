@@ -1,0 +1,2 @@
+LIBRARY	"USBIR"
+EXPORTS luaopen_USBIR
